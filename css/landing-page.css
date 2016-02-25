@@ -32,6 +32,7 @@ h6 {
 .lead {
     font-size: 18px;
     font-weight: 400;
+    color: white;
 }
 
 .intro-header {
@@ -39,7 +40,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/angelspoint.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -109,6 +110,7 @@ h6 {
 
 .section-heading {
     margin-bottom: 30px;
+    color: white;
 }
 
 .section-heading-spacer {
@@ -206,5 +208,25 @@ p.copyright {
 
 .navbar-fixed-top {
     background-color: black;
+}
+
+#aboutme {
+    color: white;
+}
+
+#portfolio {
+    color: white;
+}
+
+#myname {
+    color: white;
+}
+
+#passion {
+    color: white;
+}
+
+#contact {
+    color: white;
 }
 
