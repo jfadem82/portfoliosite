@@ -40,14 +40,17 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/angelspoint.jpg) no-repeat center center;
-    background-size: cover;
+    background: url(http://images1.laweekly.com/imager/never-before-seen-photos-of-tupac-and-eazy/u/original/4249165/eazymikemiller.jpg);
+    background-size: wrap;
+    margin-bottom: 400px;
+    max-height: 530px;
 }
+
 
 .intro-message {
     position: relative;
     padding-top: 20%;
-    padding-bottom: 20%;
+/*    padding-bottom: 20%;*/
 }
 
 .intro-message > h1 {
@@ -68,7 +71,7 @@ h6 {
 
 @media(max-width:767px) {
     .intro-message {
-        padding-bottom: 15%;
+        padding-bottom: 15]]%;
     }
 
     .intro-message > h1 {
@@ -231,7 +234,7 @@ p.copyright {
 }
 
 #youngster {
-    margin-top: 31px;
+    margin-top: 10px;
     max-height: 400px;
     max-width:  400px;
 }
@@ -248,7 +251,42 @@ p.copyright {
     max-width:  400px;
 }
 
+/*#phones {
+    margin-top: 31px;
+    max-height: 400px;
+    max-width:  400px;
+}*/
+
+
 #project1 {
     background-color: black;
+}
+
+#avatar {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    margin-bottom: 30px;
+    width: 125px;
+    height: 125px;
+    border-width: 3px;
+    border-radius: 125px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#phones {
+    margin: .25em 0 .4em;
+    width: 150px;
+    height: 150px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    display: block;
+    font-family: "Circular", Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 3.8em;
 }
 
