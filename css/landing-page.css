@@ -230,3 +230,25 @@ p.copyright {
     color: white;
 }
 
+#youngster {
+    margin-top: 31px;
+    max-height: 400px;
+    max-width:  400px;
+}
+
+#studio {
+    margin-top: 10px;
+    max-height: 400px;
+    max-width:  400px;
+}
+
+#superba {
+    margin-top: 30px;
+    max-height: 400px;
+    max-width:  400px;
+}
+
+#project1 {
+    background-color: black;
+}
+
