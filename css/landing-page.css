@@ -40,10 +40,10 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(http://images1.laweekly.com/imager/never-before-seen-photos-of-tupac-and-eazy/u/original/4249165/eazymikemiller.jpg);
+    background: url(../img/LA.jpg);
     background-size: wrap;
-    margin-bottom: 400px;
-    max-height: 530px;
+/*    margin-bottom: 400px;*/
+/*    max-height: 530px;*/
 }
 
 
@@ -125,7 +125,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/rollcall.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -294,5 +294,19 @@ p.copyright {
     font-family: "Circular", Helvetica, sans-serif;
     font-weight: bold;
     font-size: 3.8em;
+}
+
+#junker {
+    margin-top: 150px;
+}
+
+#revisit {
+    margin-left: 785px;
+    margin-top: 20px;
+}
+
+#bottom {
+    background-color: black;
+    color: white;
 }
 
