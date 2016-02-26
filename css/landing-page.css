@@ -234,7 +234,7 @@ p.copyright {
 }
 
 #youngster {
-    margin-top: 10px;
+    margin-top: 31px;
     max-height: 400px;
     max-width:  400px;
 }
@@ -246,7 +246,13 @@ p.copyright {
 }
 
 #superba {
-    margin-top: 30px;
+    margin-top: 10px;
+    max-height: 400px;
+    max-width:  400px;
+}
+
+#dosphones {
+    margin-top: 10px;
     max-height: 400px;
     max-width:  400px;
 }
