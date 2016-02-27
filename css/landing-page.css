@@ -40,7 +40,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/LA.jpg);
+    background: url(../img/LA.jpg) center center;
     background-size: wrap;
 /*    margin-bottom: 400px;*/
 /*    max-height: 530px;*/
@@ -197,6 +197,9 @@ p.copyright {
     margin: 15px 0 0;
 }
 
+.navbar-header{
+    max-width: 100%
+}
 .navbar {
     background-color: black;
 }
@@ -236,25 +239,25 @@ p.copyright {
 #youngster {
     margin-top: 31px;
     max-height: 400px;
-    max-width:  400px;
+    max-width:  100%;
 }
 
 #studio {
     margin-top: 10px;
     max-height: 400px;
-    max-width:  400px;
+    max-width:  100%;
 }
 
 #superba {
     margin-top: 10px;
     max-height: 400px;
-    max-width:  400px;
+    max-width:  100%;
 }
 
 #dosphones {
     margin-top: 10px;
     max-height: 400px;
-    max-width:  400px;
+    max-width:  100%;
 }
 
 /*#phones {
@@ -310,3 +313,22 @@ p.copyright {
     color: white;
 }
 
+#fixme {
+    max-width: 100%;
+    height: 100vh;
+    overflow: scroll; 
+}
+
+.lead {
+    word-spacing: normal;
+}
+
+#fart {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+}
+
+.row {
+    overflow-y: scroll; 
